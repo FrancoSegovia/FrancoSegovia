@@ -40,7 +40,7 @@
 
 <h3 align="center"> Cómo contactarme: </h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/francosegoviadeveloper/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="🌀franco segovia🌀" height="35" width="45" /></a>
+<a href="https://www.linkedin.com/in/francosegoviadeveloper/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="🌀franco segovia🌀" height="35" width="45" /></a>
 <a href="mailto:francoleonelsegovia@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" alt="email" height="35" width="45" /></a>
 
 </p>
