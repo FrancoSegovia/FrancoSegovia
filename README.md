@@ -1,4 +1,4 @@
-<h2 align="center" style="font-size:50px;"><img src="https://media.giphy.com/media/f9ww9U0tZNpkyWFOGQ/giphy.gif" width="35" height="35" alt="Esquirla"/>   ¡Buenas! ¡Soy Franco!   <img src="https://media.giphy.com/media/f9ww9U0tZNpkyWFOGQ/giphy.gif" width="35" height="35" alt="Esquirla"/></h2> 
+<h1 align="center" style="font-size:50px;"><img src="https://media.giphy.com/media/f9ww9U0tZNpkyWFOGQ/giphy.gif" width="35" height="35" alt="Esquirla"/>   ¡Buenas! ¡Soy Franco!   <img src="https://media.giphy.com/media/f9ww9U0tZNpkyWFOGQ/giphy.gif" width="35" height="35" alt="Esquirla"/></h1> 
 
 
 <h4 align="center"> ¡Un desarrollador Front-End 💻 especializado en ReactJs🌌 - Redux🔮! </h4>
