@@ -7,8 +7,11 @@
 
 <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="99" height="99" alt="react-logo" align="center"/> 
 
+<h4 align="center"> 👾 Desde el año 2017 y hasta el año 2021,
+ en mi formación y especialización como técnico informático, aprendí las bases de la programación manteniendo prácticas en lenguajes como C++ y Python.
+ Poco después ingresé en el Bootcamp de Henry, donde además de JavaScript aprendí diversas tecnologías y aptitudes profesionales para potenciar mi carrera. 👾</h4>
 
-<p align="center">
+</p>
 
 #
 
