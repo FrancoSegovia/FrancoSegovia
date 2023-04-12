@@ -39,7 +39,9 @@
 
 
 #
+
 <h3 align="center"> ¡Actualmente estoy aprendiendo Svelte!</h3>
+
 #
 
 <h3 align="center"> Cómo contactarme: </h3>
