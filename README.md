@@ -1,7 +1,7 @@
 <h1 align="center" style="font-size:50px;"><img src="https://media.giphy.com/media/f9ww9U0tZNpkyWFOGQ/giphy.gif" width="35" height="35" alt="Esquirla"/>   ¡Buenas! ¡Soy Franco!   <img src="https://media.giphy.com/media/f9ww9U0tZNpkyWFOGQ/giphy.gif" width="35" height="35" alt="Esquirla"/></h1> 
 
 
-<h3 align="center"> ¡Un desarrollador Full-Stack 💻 especializado en Frontend! </h3>
+<h3 align="center"> ¡Desarrollador Full-Stack 💻</h3>
 
 <p align="center">
 
